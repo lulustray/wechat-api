@@ -17,6 +17,8 @@ API.mixin(require('./lib/api_message'));
 API.mixin(require('./lib/api_template'));
 // 获取客服聊天记录
 API.mixin(require('./lib/api_custom_service'));
+// 多客服会话接口
+API.mixin(require('./lib/api_kf_session'));
 // 高级群发接口
 API.mixin(require('./lib/api_mass_send'));
 // 微信小店商品管理接口

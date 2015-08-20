@@ -1,7 +1,7 @@
 {
-  "name": "wechat-api",
-  "version": "1.11.0",
-  "description": "微信公共平台Node库 API",
+  "name": "wechat-api-fork",
+  "version": "1.0.0",
+  "description": "微信公共平台Node库 API 新增多客服会话接口",
   "main": "index.js",
   "scripts": {
     "test": "make test-all"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-api.git"
+    "url": "git://github.com/lulustray/wechat-api.git"
   },
   "keywords": [
     "weixin",
@@ -33,7 +33,7 @@
     "rewire": "*",
     "istanbul": "*"
   },
-  "author": "Jackson Tian",
+  "author": "lulustray fork (Jackson Tian)",
   "license": "MIT",
   "readmeFilename": "README.md",
   "directories": {
