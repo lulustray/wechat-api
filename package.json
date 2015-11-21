@@ -1,6 +1,6 @@
 {
   "name": "wechat-api-fork",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "微信公共平台Node库 API 新增多客服会话接口",
   "main": "index.js",
   "scripts": {
